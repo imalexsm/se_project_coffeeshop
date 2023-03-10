@@ -10,7 +10,10 @@ This is the second project of the Web Development program at Practicum. It was c
 - Flat BEM
 - A custom form
 - CSS animation and transform
+- Iframes
+- Positioning Positioning Positioning
 
 ## Plan on improving the project
 
-Add your ideas here :)
+Dynamic features to include coffee
+Sounds of coffee brewing or coffee beans shaking upon click
