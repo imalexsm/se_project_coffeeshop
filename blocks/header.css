@@ -7,6 +7,7 @@
   background-size: cover;
   background-position: center;
   width: 100%;
+  position: relative;
 }
 
 .header__title {
@@ -19,7 +20,7 @@
   padding-top: 202px;
   padding-left: 80px;
   margin: 0;
-  z-index: 2;
+  z-index: 1;
 }
 
 .header__span-accent {
