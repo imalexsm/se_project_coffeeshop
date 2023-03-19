@@ -17,3 +17,4 @@ This is the second project of the Web Development program at Practicum. It was c
 
 Dynamic features to include coffee
 Sounds of coffee brewing or coffee beans shaking upon click
+Images of menu items or descriptions of local items
