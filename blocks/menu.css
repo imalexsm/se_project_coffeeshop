@@ -59,6 +59,11 @@
   padding-bottom: 32px;
 }
 
+.menu__list {
+  margin: 0;
+  padding: 0;
+}
+
 .card__list-item {
   font-family: "Noto Serif", Times New Roman, serif;
   font-size: 16px;
